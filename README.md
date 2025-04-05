@@ -137,7 +137,7 @@ function addValue(string memory _filmName, string memory _author) public {
 
 - **Kabir Dharshaan**
 - 🎓 Squad 81 – Kalasalingam University
-- 📧 Email: kabirdharshaan.u.s81@kalvium.community
+- 📧 Email: dharshaankabir@gmail.com
 
 ---
 
